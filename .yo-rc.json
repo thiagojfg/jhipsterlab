@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterlab",
+    "packageName": "br.com.jhipsterlab",
+    "packageFolder": "br/com/jhipsterlab",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "ZmNjOTZkMmI2ZWVhYzliMTI2MTlhM2RhZWNmZjZlNjFjMzQ2ZWI4NDI3ZmFkOWQ0MjliODQ3MTNhNmUyZTc3YTI1YWUyYzUwZjYzZjQ2MzdiN2U5MjlmZDJjYjNlOWMzMGQ1NzM1YTFhYTljZWUwOTcyMzY4ZGEzMTZiM2FkOWI="
+  },
+  "git-provider": "GitHub",
+  "git-company": "thiagojfg",
+  "repository-name": "jhipsterlab"
+}
